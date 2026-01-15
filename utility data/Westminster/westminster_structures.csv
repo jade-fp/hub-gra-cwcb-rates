@@ -1,0 +1,19 @@
+﻿structure_group,structure_code,description
+"Residential, Single Family",A,Residential SF Detached
+"Residential, Single Family",B,Residential SF Attached
+"Residential, Multi Family",C,Apartments
+"Residential, Multi Family",D,Townhomes/Trailers
+Commercial / Industrial,E,Business Commercial
+Commercial / Industrial,F,Industrial
+Wholesale,G,Wholesale
+Utility/Municipal,H,City Account
+Irrigation,I,"Residential Irrigation (e.g., HOA)"
+School/Church/Public,J,School/Church/Public
+Reclaimed,K,Reclaimed
+Irrigation,L,City Irrigation
+City Reclaimed,M,City Reclaimed
+Recl on Pot,N,Recl on Pot
+Commercial / Industrial,O,Commercial Irrigation
+"Residential, Single Family",P,Indiv Metered TH
+Hydrant Meters,Q,Hydrant Meters
+Hyland Village Fire Line,Z,Hyland Village Fire Line
